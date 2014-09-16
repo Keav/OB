@@ -224,4 +224,5 @@ pip-log.txt
 *.xls
 *.xlsx
 *.txt
-!readme.txt
+*.db
+*.ffs_db
