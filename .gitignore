@@ -226,3 +226,4 @@ pip-log.txt
 *.txt
 *.db
 *.ffs_db
+*.sublime-workspace
