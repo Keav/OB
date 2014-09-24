@@ -227,3 +227,7 @@ pip-log.txt
 *.db
 *.ffs_db
 *.sublime-workspace
+BingSiteAuth.xml
+!dist/
+!src/
+node_modules
