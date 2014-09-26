@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Personal Website",
   "private": true,
+  "homepage": "http://oliverbuxton.com",
   "author": {
     "name": "Chris Keavey",
     "email": "chris@chriskeavey.com",
